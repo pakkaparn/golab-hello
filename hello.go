@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/pakkaparn/greeting"
+	greeting "github.com/pakkaparn/golab-greeting"
 )
 
 func main() {
